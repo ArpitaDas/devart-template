@@ -26,7 +26,7 @@ All updates are made using [Github Flavoured Markdown Language](https://help.git
 
 ### Your Cover Image  
 
-To start with you’ll need to replace the file **cover.jpg** inside the **/project_images** folder with a image of your choice to add your Cover Image on your Project Page. This will make your project to appear in the DevArt Gallery. 
+To start with you’ll need to replace the file **1.jpg** inside the **/project_images** folder with a image of your choice to add your Cover Image on your Project Page. This will make your project to appear in the DevArt Gallery. 
 
 **A 1000 x 500 pixels jpeg is the optimum size.**
 
