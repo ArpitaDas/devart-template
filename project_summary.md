@@ -1,12 +1,12 @@
 # Project Title
-Solar System
+Solar System in animations
 
 ## Authors
 - Arpita Das, https://github.com/ArpitaDas
 
 ## Description
-   My aim is to make a dynamic webpage which is based on the Solar System where we can find a planetary system of eight planets and various secondary bodies, dwarf planets and small Solar System objects that orbit the Sun directly, as well as satellites (moons) that orbit many planets and smaller objects.
-   To execute my idea,I am here using mainly 3 language i.e. html,css and javascript. 
+   My aim is to make a animated webpage which is based on the Solar System where we can find a planetary system of eight planets and various secondary bodies, dwarf planets and small Solar System objects that orbit the Sun directly, as well as satellites (moons) that orbit many planets and smaller objects.
+   To execute my idea,I am here using mainly 3 language i.e. html,css(css3) and javascript. 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
