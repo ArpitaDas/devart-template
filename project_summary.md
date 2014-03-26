@@ -2,7 +2,7 @@
 Solar System
 
 ## Authors
-- Arpita, Das, https://github.com/ArpitaDas
+- Arpita Das, https://github.com/ArpitaDas
 
 ## Description
    My aim is to make a dynamic webpage which is based on the Solar System where we can find a planetary system of eight planets and various secondary bodies, dwarf planets and small Solar System objects that orbit the Sun directly, as well as satellites (moons) that orbit many planets and smaller objects.
